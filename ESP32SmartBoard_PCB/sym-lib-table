@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name sensors)(type Legacy)(uri C:/Tools/KiCad/usrlib/skorokithakis/kicad-lib-master/sensors.lib)(options "")(descr ""))
+  (lib (name mh_z19b)(type Legacy)(uri C:/Tools/KiCad/usrlib/twco2sensor-mh-z19b/twco2sensor-mh-z19b-master/mh_z19b.lib)(options "")(descr ""))
+  (lib (name esp32_devkit_v1_doit)(type Legacy)(uri C:/Tools/KiCad/usrlib/VictorLamoine/kicad-master/symbols/esp32_devkit_v1_doit.lib)(options "")(descr ""))
+)

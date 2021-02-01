@@ -1,0 +1,14 @@
+
+
+Part:   ESP32_DevKit_V1_DOIT
+            Symbol / Footprint / 3D-Model:          https://gitlab.com/VictorLamoine/kicad
+
+Part:   MH-Z19B
+            Symbol / Footprint:                     https://gitlab.com/IT-Berater/twco2sensor-mh-z19b
+            3D-Model:                               https://github.com/ronaldsieber/MH-Z19_3D_Model
+
+Part:   DHT22
+            Symbol / Footprint:                     https://github.com/skorokithakis/kicad-lib/blob/master/Sensors.pretty/DHT22_Temperature_Humidity.kicad_mod
+            3D-Model:                               [KiCad DHT11 3D Model]
+
+

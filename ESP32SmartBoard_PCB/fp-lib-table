@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Sensors)(type KiCad)(uri C:/Tools/KiCad/usrlib/skorokithakis/kicad-lib-master/Sensors.pretty)(options "")(descr ""))
+  (lib (name esp32_devkit_v1_doit)(type KiCad)(uri C:/Tools/KiCad/usrlib/VictorLamoine/kicad-master/footprints/esp32_devkit_v1_doit.pretty)(options "")(descr ""))
+  (lib (name mh-z19b)(type KiCad)(uri C:/Tools/KiCad/usrlib/twco2sensor-mh-z19b/twco2sensor-mh-z19b-master/mh-z19b.pretty)(options "")(descr ""))
+)

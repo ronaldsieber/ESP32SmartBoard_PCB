@@ -26,7 +26,7 @@ The PCB size and the positions of the mounting holes allow installation in the p
 
 ![\[ESP32SmartBoard_OpenFrame_with_Box\]](Documentation/ESP32SmartBoard_OpenFrame_with_Box.jpg)
 
-By searching in the Internet, several PCB manufacturers can be found who are able to directly import the KiCad layout file *ESP32SmartBoard_PCB.kicad_pcb*. The PCBs with silkscreen (assembly printing) on the top are then sent by post after a few days.
+By searching in the Internet, several PCB manufacturers can be found who are able to directly import the KiCad layout file [ESP32SmartBoard_PCB.kicad_pcb](ESP32SmartBoard_PCB/ESP32SmartBoard_PCB.kicad_pcb). The PCBs with silkscreen (assembly printing) on the top are then sent by post after a few days.
 
 ## Power Supply
 
@@ -45,9 +45,9 @@ Not all schematic symbols, footprints and 3D models required for *ESP32SmartBoar
 ## Practice Notes
 
 - The user LEDs are arranged in one row and can be used as a LED Bar. The colors of the LEDs should be selected according to the respective application. For example, to show the CO2 level in the form of a scale, the following grouping is suitable:
-LED0..LED2: green = excellent
-LED3..LED5: yellow = acceptable
-LED6..LED8: red = critical
+  * LED0..LED2: green = excellent
+  * LED3..LED5: yellow = acceptable
+  * LED6..LED8: red = critical
 
 - It seems that there are several versions of the ESP32 Development Kit and the MH-Z19 CO2 sensor with pins of different widths. In my components, the diameter of the connection pins are larger than the diameter of the soldering pads in the footprint. This prevented me from soldering the components directly onto the board. However, I was able to solve the problem by using Pin Headers (see image above). The solder connections of the Pin Headers are small enough for the solder pads and the ESP32 Development Kit and MH-Z19 CO2 sensor can be easily plugged in.
 

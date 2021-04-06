@@ -53,8 +53,9 @@ Not all schematic symbols, footprints and 3D models required for *ESP32SmartBoar
 
 ## Software Projects for the ESP32SmartBoard
 
-[ESP32SmartBoard_IoCheck](https://github.com/ronaldsieber/ESP32SmartBoard_IoCheck) - Checking of all components during commissioning and starting point for new software projects based on this board.
-
-More projects will follow soon. So far, my projects have been based on break-out boards with individual circuits. When these are ported, I will publish them here project by project.
-
+ - [ESP32SmartBoard_IoCheck](https://github.com/ronaldsieber/ESP32SmartBoard_IoCheck) - Checking of all components during commissioning and starting point for new software projects based on this board.
+   
+ - [ESP32SmartBoard_HttpSensors](https://github.com/ronaldsieber/ESP32SmartBoard_HttpSensors) - Embedded WebServer based Arduino Sketch for ESP32SmartBoard
+   
+ - [ESP32SmartBoard_MqttSensors](https://github.com/ronaldsieber/ESP32SmartBoard_MqttSensors) - MQTT Client based Arduino Sketch for ESP32SmartBoard
 
